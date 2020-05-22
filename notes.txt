@@ -1,0 +1,16 @@
+I wrote this text file to put some personal notes together. 
+
+##How to push local environment to GitHub and Heroku.
+1) This step isn't necessary, but it helps me know what files are ready to be added. 
+Git status
+
+2) Git add .
+Then, I can add all files using the dot operator or I can choose individual files. 
+
+3) Git push
+Once I've added the files, I push the changes to my GitHub repo. 
+
+4) Git push heroku master
+Finally, I push my changes to heroku. 
+
+These steps are made available because I've setup SSH keys with GitHub and Heroku. 
